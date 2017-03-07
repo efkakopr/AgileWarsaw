@@ -2,11 +2,11 @@
 
 ## Jaki temat wybrać?
 
-Jeśli masz komfort wyboru z różnych historii, najlepiej wypadnie ta, która jest Ci najblliższa. Grupa Agile Warsaw jest duża (ponad 1600 osób) i każdy temat będzie dla jakiejś podgrupy ciekawy a opowiadając o bliskich Ci tematach łatwiej będzie Ci wciągnąć publiczność.
+Jeśli masz komfort wyboru z różnych historii, najlepiej wypadnie ta, która jest Ci najblliższa. Grupa Agile Warsaw jest duża (ponad 1600 osób) i każdy temat będzie dla jakiejś podgrupy ciekawy, a opowiadając o bliskich Ci tematach łatwiej będzie Ci wciągnąć publiczność.
 
 # Jak długo mogę mówić?
 
-Nie mamy tutaj specjalnych ograniczeń. Większość prelegentów mówi przez około godzinę. Przygotowanie krótszej prezentacji jest zwykle trudniejsze ale lepiej się takie odbiera. Ale może to nie musi być klasyczna prezentacja?
+Nie mamy tutaj specjalnych ograniczeń. Większość prelegentów mówi przez około godzinę. Przygotowanie krótszej prezentacji jest zwykle trudniejsze ale lepiej się takie odbiera. No i im krócej tym zostaje więcej miejsca na dyskusję z / pomiędzy uczestnikami. A może to nie musi być klasyczna prezentacja?
 
 ## Czy możemy sfilmować i udostępnić nagranie Twojego wystąpienia?
 
