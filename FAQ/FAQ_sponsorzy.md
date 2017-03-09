@@ -6,12 +6,12 @@ Niemniej do funkcjonowania potrzebuje kilku rzeczy, które nie są darmowe.
 
 ## Miejsce spotkań
 
-Na spotkania Agile Warsaw przychodzi zwykle pomiędzy 30 a 60 osób. Warsztaty zwykle są mniejsze a rekordowy prelegent ściągną 120 uczestników.
+Na spotkania Agile Warsaw przychodzi zwykle pomiędzy 30 a 60 osób. Warsztaty zwykle są mniejsze a rekordowy prelegent ściągnął 120 uczestników.
 
-Spotkania odbywają się zwykle w poniedziałki co 3 tygodnie. Zaczynamy o 19:00 tak, żeby spokojnie zdążyć po pracy, salę opuszczamy zwykle około 21:00. Spotkania są planowane z conajmniej dwutygodniowym wyprzedzeniem. Czasem mamy dużo dłuższą kolejkę prelegentów, czasem wypada nam coś nagłego---zwykle gość zza granicy.
+Spotkania odbywają się w poniedziałki co 3 tygodnie. Zaczynamy o 19:00 tak, żeby spokojnie zdążyć po pracy, salę opuszczamy zwykle około 21:00. Spotkania są planowane z conajmniej dwutygodniowym wyprzedzeniem. Czasem mamy dużo dłuższą kolejkę prelegentów, czasem wypada nam coś nagłego—zwykle gość zza granicy.
 
-> Zwykle gości nas [Aviva](http://www.aviva.pl/)
-> większe spotkania [Akademia Finansów i Biznesu Vistula](http://www.vistula.edu.pl)
+> Regularne spotkania gości [Aviva](http://www.aviva.pl/)
+> a większe, na ponad 100 osób [Akademia Finansów i Biznesu Vistula](http://www.vistula.edu.pl)
 
 ## Nagrania wystąpień
 
@@ -27,10 +27,10 @@ Mamy nawiązaną stałą współpracę ze sprawdzoną firmą, która wystawia fa
 
 ## Ogłoszenia rekrutacyjne
 
-Pracujemy nad tym żeby były zarówno skuteczne dla ogłoszeniodawcy jak i nienapastliwe dla naszych członków...
+Pracujemy nad tym żeby były zarówno skuteczne dla sponsora jak i nienapastliwe dla naszych członków...
 
 ## Logo na nagraniu
 
-TODO: Opisać glądalność
+TODO: Opisać oglądalność
 
 ## Możliwość ,,zagajenia'' uczestników spotkania
