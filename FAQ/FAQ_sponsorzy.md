@@ -1,5 +1,7 @@
 Agile Warsaw jest grupą nieformalną, opiera się całkowicie na ochotnikach, nie posiada żadnej formy prawnej i nie dotyka pieniędzy w żaden sposób.
 
+TODO: trochę faktów: liczba członków, linki do Meetup, YT, ...
+
 Niemniej do funkcjonowania potrzebuje kilku rzeczy, które nie są darmowe.
 
 # Nasze potrzeby
