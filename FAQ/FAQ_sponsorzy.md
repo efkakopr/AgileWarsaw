@@ -1,0 +1,36 @@
+Agile Warsaw jest grupą nieformalną, opiera się całkowicie na ochotnikach, nie posiada żadnej formy prawnej i nie dotyka pieniędzy w żaden sposób.
+
+Niemniej do funkcjonowania potrzebuje kilku rzeczy, które nie są darmowe.
+
+# Nasze potrzeby
+
+## Miejsce spotkań
+
+Na spotkania Agile Warsaw przychodzi zwykle pomiędzy 30 a 60 osób. Warsztaty zwykle są mniejsze a rekordowy prelegent ściągną 120 uczestników.
+
+Spotkania odbywają się zwykle w poniedziałki co 3 tygodnie. Zaczynamy o 19:00 tak, żeby spokojnie zdążyć po pracy, salę opuszczamy zwykle około 21:00. Spotkania są planowane z conajmniej dwutygodniowym wyprzedzeniem. Czasem mamy dużo dłuższą kolejkę prelegentów, czasem wypada nam coś nagłego---zwykle gość zza granicy.
+
+> Zwykle gości nas [Aviva](http://www.aviva.pl/)
+> większe spotkania [Akademia Finansów i Biznesu Vistula](http://www.vistula.edu.pl)
+
+## Nagrania wystąpień
+
+Mamy nawiązaną stałą współpracę ze sprawdzoną firmą, która wystawia fakturę bezpośrednio sponsorowi.
+
+> Na dzień dzisiejszy nie mamy stałego sponsora nagrań.
+
+## Konto w serwisie Meetup.com
+
+> Konto jest sponsorowane przez konferencję [Agile by Example](http://agilebyexample.com).
+
+# Co wzamian?
+
+## Ogłoszenia rekrutacyjne
+
+Pracujemy nad tym żeby były zarówno skuteczne dla ogłoszeniodawcy jak i nienapastliwe dla naszych członków...
+
+## Logo na nagraniu
+
+TODO: Opisać glądalność
+
+## Możliwość ,,zagajenia'' uczestników spotkania
