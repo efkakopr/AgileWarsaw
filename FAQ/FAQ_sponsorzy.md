@@ -19,7 +19,7 @@ Spotkania odbywają się w poniedziałki co 3 tygodnie. Zaczynamy o 19:00 tak, �
 
 Mamy nawiązaną stałą współpracę ze sprawdzoną firmą, która wystawia fakturę bezpośrednio sponsorowi.
 
-> Na dzień dzisiejszy nie mamy stałego sponsora nagrań.
+> Nagrania sponsoruje [Sollers Consulting](https://sollers.eu/).
 
 ## Konto w serwisie Meetup.com
 
