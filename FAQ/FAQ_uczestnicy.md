@@ -23,7 +23,7 @@ Ręczny sposób przebiega tak:
 
   - Przy zapisie zobaczysz pytanie dotyczące spotkania. *Uwaga: pytanie nie pojawia się jeśli zapisujesz się przez apkę na telefon!*<sup>1</sup>
   - Po udzieleniu odpowiedzi trafisz na listę oczekujących. Kolejność na tej liście nie ma znaczenia bo:
-  - Na ~2 dni przed spotkaniem prelegenci wybiorą ręcznie na podstawie odpowiedzi osoby, które wg. nich najbardziej skorzystają na spotkaniu.
+  - Na ~2 dni przed spotkaniem zapisy zostaną zamknięte i prelegenci wybiorą ręcznie na podstawie odpowiedzi osoby, które wg. nich najbardziej skorzystają na spotkaniu.
   - Organizatorzy jeszcze odflitrowują z listy osoby, które mają historię zapisywania się i nieprzychodzenia (no-show), żeby nie te ograniczone miejsca się nie marnowały.
   - Pod koniec dnia organizatorzy wszystko wyklikają i wybrane osoby trafią na listę uczestników.
 

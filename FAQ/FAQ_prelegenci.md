@@ -20,7 +20,7 @@ Ręczna selekcja działa tak:
 
   - W momencie zapisywania się na spotkanie potencjalni uczestnicy dostają pytanie. Pytanie może być tylko jedno.
   - Odpowiadają (limit 250 znaków) i trafiają na listę oczekujących.
-  - Na ~2 dni przed spotkaniem dostaniesz rano od organizatorów tę listę z prośbą o poukładanie uczestników w kolejności.
+  - Na ~2 dni przed spotkaniem dostaniesz rano od organizatorów tę listę z prośbą o poukładanie uczestników w kolejności akceptowania.
   - Lista musi wrócić wczesnym popołudniem, organizatorzy odfiltrują jeszcze z niej osoby z historią zapisywania się i nieprzychodzenia i ogłoszą listę zakwalifikowanych osób.
 
 Timing ostatnich dwóch kroków jest ważny bo przekazanie Ci listy wiąże się z zamknięciem zapisów a jej zwrot z odpowiednio wczesnym komunikatem dla uczestników. Jeśli spotkanie jest tradycyjnie w poniedziałek to listę dostaniesz w piątek rano i będziemy oczekiwać zwrotu najpóźniej o 14:00.
