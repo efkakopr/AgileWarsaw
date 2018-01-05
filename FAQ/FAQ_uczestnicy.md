@@ -15,6 +15,22 @@ Tak na marginesie, inne spotkania warszawskie, które mają mniej szczęścia do
 
 Lista nie jest zamykana tuż przed rozpoczęciem spotkania---nie spełniałaby wtedy swojej głównej roli czyli polepszenia przewidywalności liczby obecnych. Wypisanie się ,,w ostatniej chwili'' może nadal skończyć się statusem ,,no-show''.
 
+# Zapisy przy ograniczonej liczbie miejsc
+
+Czasem, na przykład przy okazji warsztatów, liczba miejsc musi być ograniczona. Mamy dwa sposoby wyboru uczestników: według kolejności zapisów albo ręcznie na podstawie odpowiedzi na pytanie przy zapisach. Wybór sposobu należy do prelegentów.
+   
+Ręczny sposób przebiega tak:
+
+  - Przy zapisie zobaczysz pytanie dotyczące spotkania. *Uwaga: pytanie nie pojawia się jeśli zapisujesz się przez apkę na telefon!*<sup>1</sup>
+  - Po udzieleniu odpowiedzi trafisz na listę oczekujących. Kolejność na tej liście nie ma znaczenia bo:
+  - Na ~2 dni przed spotkaniem prelegenci wybiorą ręcznie na podstawie odpowiedzi osoby, które wg. nich najbardziej skorzystają na spotkaniu.
+  - Organizatorzy jeszcze odflitrowują z listy osoby, które mają historię zapisywania się i nieprzychodzenia (no-show), żeby nie te ograniczone miejsca się nie marnowały.
+  - Pod koniec dnia organizatorzy wszystko wyklikają i wybrane osoby trafią na listę uczestników.
+
+<sup>1</sup> Odpowiedź można zmieniać, więc możesz zapisać się na telefonie a potem poprawić odpowiedź przy komputerze.
+   
+
+
 # Prelegenci
 
 Nie wszyscy prelegenci są doświadczeni w występowaniu przed publicznością, zwłaszcza, że na Agile Warsaw potrafi przyjść Was całkiem sporo---to może być całkiem stresujące. Zatem wszelkie słowa (i gesty) otuchy zostaną docenione zarówno przed, w trakcie jak i po spotkaniu włączając w to kanały internetowe.
