@@ -23,7 +23,7 @@ Mamy nawiązaną stałą współpracę ze sprawdzoną firmą, która wystawia fa
 
 ## Konto w serwisie Meetup.com
 
-> Konto jest sponsorowane przez konferencję [Agile by Example](http://agilebyexample.com).
+> Konto jest sponsorowane przez konferencję [AgileByExample](http://agilebyexample.com).
 
 # Co wzamian?
 
