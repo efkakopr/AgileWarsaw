@@ -13,7 +13,7 @@ Tak na marginesie, inne spotkania warszawskie, które mają mniej szczęścia do
 
 ## Logistyka wokół listy
 
-Lista nie jest zamykana tuż przed rozpoczęciem spotkania---nie spełniałaby wtedy swojej głównej roli czyli polepszenia przewidywalności liczby obecnych. Wypisanie się ,,w ostatniej chwili'' może nadal skończyć się statusem ,,no-show''. Odwołanie swojego uczestnictwa na 48h przed spotkaniem na pewno nie spowoduje ustawienia statusu "no-show".
+Lista nie jest zamykana tuż przed rozpoczęciem spotkania---nie spełniałaby wtedy swojej głównej roli czyli polepszenia przewidywalności liczby obecnych. Wypisanie się ,,w ostatniej chwili'' może nadal skończyć się statusem ,,no-show''.
 
 # Zapisy przy ograniczonej liczbie miejsc
 
