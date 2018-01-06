@@ -1,7 +1,7 @@
 # Lista obecności
 
-TL;DR
-Organizatorom lista też się nie podoba i w dodatku jest przy niej sporo roboty ale potrzebna jest jakaś przewidywalność obecności ze względu na salę.
+Listy obecności zostały wprowadzone dlatego, że chętnych jest zwykle dużo więcej niż może pomieścić sala. Czasami również organizator czy prelegent może limitować liczbę miejsc. Chcąc jak najlepiej sprostać oczekiwaniom uczestników meetupów i wprowadzić choć niewielką przewidywalność wprowadziliśmy listy uczestników.
+
 
 ## Dlaczego lista
 
@@ -17,7 +17,12 @@ Lista nie jest zamykana tuż przed rozpoczęciem spotkania---nie spełniałaby w
 
 # Zapisy przy ograniczonej liczbie miejsc
 
-Czasem, na przykład przy okazji warsztatów, liczba miejsc musi być ograniczona. Mamy dwa sposoby wyboru uczestników: według kolejności zapisów albo ręcznie na podstawie odpowiedzi na pytanie przy zapisach. Wybór sposobu należy do prelegentów.
+Czasem, na przykład przy okazji warsztatów, liczba miejsc musi być ograniczona. Mamy dwa sposoby wyboru uczestników: 
+
+1. Według kolejności zapisów.
+2. Ręcznie na podstawie odpowiedzi na pytanie przy zapisach. 
+
+Wybór sposobu należy do prelegentów.
    
 Ręczny sposób przebiega tak:
 
